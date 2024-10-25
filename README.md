@@ -19,7 +19,7 @@ To run the Taskly app on your local machine, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/YourUsername/Taskly.git
+   git clone https://github.com/DeepDarji/Taskly.git
    cd Taskly
    ```
 
@@ -35,13 +35,3 @@ To run the Taskly app on your local machine, follow these steps:
    flutter run
    ```
 
-## Screenshots
-
-*(Add screenshots of your app here)*
-
-## Author
-
-*Your Name*  
-*Your Email*  
-*Your GitHub Profile*
-```
