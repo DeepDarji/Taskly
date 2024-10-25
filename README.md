@@ -1,16 +1,47 @@
-# taskly
+# Taskly App
 
-A new Flutter project.
+## Overview
+
+The Taskly App is a Flutter application designed for efficient task management. This app allows users to add, update, and delete tasks while persisting data locally using Hive, ensuring that your tasks remain accessible even after closing the app.
+
+## Features
+
+- **Task Management:** Add, update, and delete tasks seamlessly.
+- **Persistent Data Storage:** Utilizes Hive for local data persistence.
+- **User-Friendly Interface:** Clean design with intuitive navigation.
+- **Responsive UI:** Built with stateful widgets to ensure smooth user interactions.
+- **ListView Integration:** Displays tasks in a scrollable list format for easy viewing.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the Taskly app on your local machine, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone the repository:**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ```bash
+   git clone https://github.com/YourUsername/Taskly.git
+   cd Taskly
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. **Install Flutter:**
+
+   Ensure you have Flutter installed on your machine. Follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install) if needed.
+
+3. **Run the app:**
+
+   Use the following command to run the app on your preferred device:
+
+   ```bash
+   flutter run
+   ```
+
+## Screenshots
+
+*(Add screenshots of your app here)*
+
+## Author
+
+*Your Name*  
+*Your Email*  
+*Your GitHub Profile*
+```
